@@ -1,0 +1,37 @@
+.block{
+  border: solid 1px;
+  border-radius: 3px;
+  width: 80px;
+  text-align: center;
+  transition: 0.2s;
+}
+
+.title{
+  transition: 0.5s;
+  width: 250px;
+}
+
+.red:hover{
+  background-color: red;
+  color: white;
+}
+
+.blue:hover{
+  background-color: blue;
+  color: white;
+}
+
+.green:hover{
+  background-color: green;
+  color: white;
+}
+
+.laugh:hover{
+  background-color: gray;
+  color: white;
+}
+
+.undo:hover{
+  background-color: black;
+  color: white;
+}
