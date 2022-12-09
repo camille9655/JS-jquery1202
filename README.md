@@ -1,1 +1,1 @@
-# JS-jquery1202
+# https://camille9655.github.io/JS-jquery1202/
